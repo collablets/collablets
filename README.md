@@ -1,2 +1,3 @@
-# docs
+# Collablets
+
 Official Documentation
