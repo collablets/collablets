@@ -1,3 +1,3 @@
-# Collablets
+# Notelets
 
 Official Documentation
